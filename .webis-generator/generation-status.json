@@ -1,8 +1,78 @@
 {
-  "projectName": "משרד-עורכי-דין-ביתא-3816",
-  "businessName": "משרד עורכי דין ביתא",
-  "created": "2025-04-06T10:03:36.328Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T10:04:56.442Z",
+  "status": {
+    "totalComponents": 11,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Navigation bar with logo and menu items"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the law firm, its history, and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the legal services offered by the firm"
+    },
+    {
+      "name": "ProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Section displaying the legal products offered by the firm"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Section introducing the key attorneys and team members"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section showcasing client testimonials and reviews"
+    },
+    {
+      "name": "StatisticsSection",
+      "type": "statistics",
+      "status": "pending",
+      "description": "Section highlighting key statistics and achievements of the firm"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information section"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with additional links, copyright, and social media"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
+  "repoName": "webis-site-mshrd-avrky-dyn-byta-1743933816265"
 }
