@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-06T10:08:13.427Z",
+  "timestamp": "2025-04-06T10:08:55.820Z",
   "status": {
     "totalComponents": 11,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 45
+    "progress": 55
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "TeamSection",
       "type": "team",
-      "status": "pending",
+      "status": "completed",
       "description": "Section introducing the key attorneys and team members"
     },
     {
