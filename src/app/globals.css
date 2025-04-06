@@ -17,6 +17,9 @@
   --font-heebo: 'Heebo', sans-serif;
 
   --font-family-main: Arial, sans-serif;
+
+  --font-family-heading: 'Heebo', 'Rubik', sans-serif;
+  --font-family-body: 'Assistant', 'Open Sans', sans-serif;
 }
 
 html {
